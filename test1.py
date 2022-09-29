@@ -4,3 +4,7 @@ client = pymongo.MongoClient("mongodb+srv://Mosharrafa:HDj3xJJLwH235jCzQ@cluster
 db = client.test
 
 print(db)
+
+
+practice
+practice
