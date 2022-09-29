@@ -6,5 +6,4 @@ db = client.test
 print(db)
 
 
-practice
-practice
+
